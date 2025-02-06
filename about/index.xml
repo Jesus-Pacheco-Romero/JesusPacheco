@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ACERCA DE MI.. on JESÚS PACHECO</title>
-    <link>https://jesusiv24921.github.io/jesuspacheco/about/</link>
+    <link>https://github.com/Jesus-Pacheco-Romero/JesusPacheco.git/about/</link>
     <description>Recent content in ACERCA DE MI.. on JESÚS PACHECO</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://jesusiv24921.github.io/jesuspacheco/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://github.com/Jesus-Pacheco-Romero/JesusPacheco.git/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
