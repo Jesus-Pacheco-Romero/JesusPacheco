@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Post on JESÚS PACHECO</title>
-    <link>https://jesus-pacheco-romero.github.io/JesusPacheco/tags/post/</link>
+    <link>http://localhost:1313/JesusPacheco/tags/post/</link>
     <description>Recent content in Post on JESÚS PACHECO</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Jan 2025 10:58:08 -0400</lastBuildDate>
-    <atom:link href="https://jesus-pacheco-romero.github.io/JesusPacheco/tags/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/JesusPacheco/tags/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Análisis</title>
-      <link>https://jesus-pacheco-romero.github.io/JesusPacheco/contact/analisis/</link>
+      <link>http://localhost:1313/JesusPacheco/contact/analisis/</link>
       <pubDate>Thu, 02 Jan 2025 10:58:08 -0400</pubDate>
-      <guid>https://jesus-pacheco-romero.github.io/JesusPacheco/contact/analisis/</guid>
+      <guid>http://localhost:1313/JesusPacheco/contact/analisis/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/jesusiv24921/images/main/captura_limpieza4.jpg&#34; alt=&#34;Foto personal&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;pura paja.&lt;/p&gt;</description>
     </item>
   </channel>

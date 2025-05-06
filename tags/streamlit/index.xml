@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Streamlit on JESÚS PACHECO</title>
+    <link>https://jesus-pacheco-romero.github.io/JesusPacheco/tags/streamlit/</link>
+    <description>Recent content in Streamlit on JESÚS PACHECO</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Apr 2025 11:00:59 -0400</lastBuildDate>
+    <atom:link href="https://jesus-pacheco-romero.github.io/JesusPacheco/tags/streamlit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hall Plot APP</title>
+      <link>https://jesus-pacheco-romero.github.io/JesusPacheco/contact/hall_plot/</link>
+      <pubDate>Thu, 10 Apr 2025 11:00:59 -0400</pubDate>
+      <guid>https://jesus-pacheco-romero.github.io/JesusPacheco/contact/hall_plot/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Hall Plot APP&lt;/strong&gt; es una herramienta desarrollada en Streamlit que permite visualizar de forma interactiva el análisis Hall Plot, clave para el diagnóstico del comportamiento de pozos inyectores en procesos de &lt;em&gt;waterflooding&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;h3 id=&#34;-qué-es-el-hall-plot&#34;&gt;🔍 ¿Qué es el Hall Plot?&lt;/h3&gt;&#xA;&lt;p&gt;El &lt;strong&gt;Gráfico de Hall&lt;/strong&gt; representa la relación entre el volumen acumulado de agua inyectada y la presión de inyección. Un comportamiento lineal sugiere condiciones operativas estables, mientras que cambios en la pendiente pueden indicar &lt;strong&gt;taponamiento&lt;/strong&gt;, &lt;strong&gt;daño a la formación&lt;/strong&gt; o &lt;strong&gt;problemas operativos&lt;/strong&gt;. Además, la &lt;strong&gt;derivada del Hall Plot&lt;/strong&gt; permite detectar anomalías con mayor sensibilidad.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
