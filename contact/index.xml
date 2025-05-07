@@ -22,5 +22,12 @@
       <guid>https://jesus-pacheco-romero.github.io/JesusPacheco/contact/hall_plot/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Hall Plot APP&lt;/strong&gt; es una herramienta desarrollada en Streamlit que permite visualizar de forma interactiva el análisis Hall Plot, clave para el diagnóstico del comportamiento de pozos inyectores en procesos de &lt;em&gt;waterflooding&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;h3 id=&#34;-qué-es-el-hall-plot&#34;&gt;🔍 ¿Qué es el Hall Plot?&lt;/h3&gt;&#xA;&lt;p&gt;El &lt;strong&gt;Gráfico de Hall&lt;/strong&gt; representa la relación entre el volumen acumulado de agua inyectada y la presión de inyección. Un comportamiento lineal sugiere condiciones operativas estables, mientras que cambios en la pendiente pueden indicar &lt;strong&gt;taponamiento&lt;/strong&gt;, &lt;strong&gt;daño a la formación&lt;/strong&gt; o &lt;strong&gt;problemas operativos&lt;/strong&gt;. Además, la &lt;strong&gt;derivada del Hall Plot&lt;/strong&gt; permite detectar anomalías con mayor sensibilidad.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Predicción de Casos de Dengue con Aprendizaje Supervisado</title>
+      <link>https://jesus-pacheco-romero.github.io/JesusPacheco/contact/dengue/</link>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://jesus-pacheco-romero.github.io/JesusPacheco/contact/dengue/</guid>
+      <description>&lt;p&gt;Este proyecto utiliza modelos de &lt;strong&gt;aprendizaje supervisado&lt;/strong&gt; para predecir la cantidad de casos de dengue en las ciudades peruanas de &lt;strong&gt;Iquitos&lt;/strong&gt; y &lt;strong&gt;San Juan&lt;/strong&gt;. El análisis se basa en variables climáticas como temperatura, humedad, precipitación, y en índices de vegetación como el NDVI.&lt;/p&gt;&#xA;&lt;p&gt;🔗 &lt;a href=&#34;https://colab.research.google.com/drive/1L_SJ2WgofJct7qQddisP0czA4pPaSNvu#scrollTo=Ti5Wnz3cgkRD&#34;&gt;Ver el notebook en Google Colab&lt;/a&gt;&lt;br&gt;&#xA;🔗 &lt;a href=&#34;https://github.com/Jesus-Pacheco-Romero/dengue-prediction&#34;&gt;Ver repositorio en GitHub&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;-objetivo&#34;&gt;🧠 Objetivo&lt;/h2&gt;&#xA;&lt;p&gt;Evaluar distintos algoritmos de regresión para encontrar el modelo con mejor capacidad predictiva sobre los casos de dengue reportados semanalmente, considerando información meteorológica y ambiental.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Proyectos on JESÚS PACHECO</title>
-    <link>https://jesus-pacheco-romero.github.io/JesusPacheco/categories/proyectos/</link>
-    <description>Recent content in Proyectos on JESÚS PACHECO</description>
+    <title>Colab on JESÚS PACHECO</title>
+    <link>https://jesus-pacheco-romero.github.io/JesusPacheco/tags/colab/</link>
+    <description>Recent content in Colab on JESÚS PACHECO</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 07 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://jesus-pacheco-romero.github.io/JesusPacheco/categories/proyectos/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jesus-pacheco-romero.github.io/JesusPacheco/tags/colab/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Predicción de Casos de Dengue con Aprendizaje Supervisado</title>
       <link>https://jesus-pacheco-romero.github.io/JesusPacheco/contact/dengue/</link>
